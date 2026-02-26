@@ -1,0 +1,9 @@
+site_name: Documentation Draft
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Reference:
+    - Usage: usage.md
+    - API: api.md
+theme:
+  name: 'material'
